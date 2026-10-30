@@ -1,0 +1,11 @@
+{
+  "upload_type": "dataset",
+  "title": "Pass percentages of Indian professional exams: CA, CS and CMA (2016 onwards)",
+  "description": "Every pass percentage published by ICAI (CA), ICSI (CS) and ICMAI (CMA) since 2016, compiled in one dataset with a link to the official source for each row. Covers CA Foundation, Intermediate/IPCC and Final; CSEET, CS Executive and Professional; CMA Foundation, Intermediate and Final, by group where published. Maintained by Gradehunt (https://gradehunt.com/pass-percentage), which is not affiliated with ICAI, ICSI or ICMAI.",
+  "creators": [{"name": "Gradehunt", "affiliation": "Gradehunt Edtech Private Limited"}],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["CA exam", "ICAI", "ICSI", "ICMAI", "pass percentage", "India", "professional exams", "education statistics"],
+  "related_identifiers": [{"identifier": "https://gradehunt.com/pass-percentage", "relation": "isSupplementTo", "resource_type": "dataset"}],
+  "language": "eng"
+}
