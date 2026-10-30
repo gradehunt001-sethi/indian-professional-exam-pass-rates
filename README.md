@@ -1,5 +1,8 @@
 # Pass percentages of Indian professional exams: CA, CS and CMA (2016 onwards)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23801918.svg)](https://doi.org/10.5281/zenodo.23801918)
+
+
 Every pass percentage published by the three Indian professional accounting and secretarial institutes, collected in one place, with a link to the official source for each row.
 
 - **CA** (The Institute of Chartered Accountants of India, ICAI): Foundation, Intermediate (and the older IPCC), Final
@@ -48,6 +51,6 @@ The live tables at https://gradehunt.com/pass-percentage are updated after each 
 
 Licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**. You can use, share and adapt the data, including commercially, as long as you credit Gradehunt with a link:
 
-> Source: Gradehunt, "Pass percentages of Indian professional exams: CA, CS and CMA", https://gradehunt.com/pass-percentage (CC BY 4.0)
+> Source: Gradehunt, "Pass percentages of Indian professional exams: CA, CS and CMA", https://gradehunt.com/pass-percentage (CC BY 4.0). DOI: 10.5281/zenodo.23801918
 
 Questions or corrections: info@gradehunt.com
